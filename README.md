@@ -56,9 +56,11 @@ Install the required packages:
 
 ```
 qiskit
+qiskit-aer
 streamlit
 matplotlib
-qiskit-aer
+numpy
+pylatexenc
 ```
 
 Run the Streamlit app:
