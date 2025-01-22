@@ -3,3 +3,4 @@ qiskit-aer
 streamlit
 matplotlib
 numpy
+pylatexenc
